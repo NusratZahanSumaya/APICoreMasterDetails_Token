@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\Pictures\\C2.png",
+      "PackagePath": "staticwebassets\\Pictures\\C2.png"
+    },
+    {
+      "Id": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\Pictures\\C3.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\C3.jpeg"
+    },
+    {
+      "Id": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\Pictures\\C3.png",
+      "PackagePath": "staticwebassets\\Pictures\\C3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Evi_practice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Evi_practice.props",
+      "PackagePath": "build\\Evi_practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Evi_practice.props",
+      "PackagePath": "buildMultiTargeting\\Evi_practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Evi_practice.props",
+      "PackagePath": "buildTransitive\\Evi_practice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

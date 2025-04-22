@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "SLidBOJnwDAowyW+3M+npVH8+ZPnBqwvTzH2DXI/kKU=",
+  "Source": "Evi_practice",
+  "BasePath": "_content/Evi_practice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Evi_practice\\wwwroot",
+      "Source": "Evi_practice",
+      "ContentRoot": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\",
+      "BasePath": "_content/Evi_practice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\Pictures\\C2.png",
+      "SourceId": "Evi_practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\",
+      "BasePath": "_content/Evi_practice",
+      "RelativePath": "Pictures/C2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\C2.png"
+    },
+    {
+      "Identity": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\Pictures\\C3.jpeg",
+      "SourceId": "Evi_practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\",
+      "BasePath": "_content/Evi_practice",
+      "RelativePath": "Pictures/C3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\C3.jpeg"
+    },
+    {
+      "Identity": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\Pictures\\C3.png",
+      "SourceId": "Evi_practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IDB\\Module-11\\Evi_practice\\Evi_practice\\Evi_practice\\Evi_practice\\wwwroot\\",
+      "BasePath": "_content/Evi_practice",
+      "RelativePath": "Pictures/C3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\C3.png"
+    }
+  ]
+}

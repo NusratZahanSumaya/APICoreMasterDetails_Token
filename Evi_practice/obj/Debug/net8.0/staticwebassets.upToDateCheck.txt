@@ -1,0 +1,3 @@
+wwwroot\Pictures\C2.png
+wwwroot\Pictures\C3.jpeg
+wwwroot\Pictures\C3.png
